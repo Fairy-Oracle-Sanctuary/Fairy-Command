@@ -6,3 +6,5 @@ diagnostic.disable.minecraft.tag.missing=true
 diagnostic.disable.behaviorpack.block.missing=true
 diagnostic.disable.behaviorpack.mcstructure.missing=true
 diagnostic.disable.minecraft.commands.summon.syntax=true
+diagnostic.disable.behaviorpack.blocks.missing=true
+diagnostic.disable.behaviorpack.blocks.missing=true
